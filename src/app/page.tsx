@@ -15,7 +15,6 @@ export default function Home() {
       <nav className='flex justify-between pl-1.5 pr-2.5 py-1.5'>
         <div className="flex items-center gap-x-1">
           <NavLogo />
-          {/* <h4>foli</h4> */}
         </div>
         <div className='flex items-center gap-x-3'>
           <SystemAppearanceToggle />
